@@ -578,7 +578,6 @@ footer .copyright {
 
 @media (max-width: 900px) {
   .site-header .container {
-    flex-wrap: true;
     flex-wrap: wrap;
   }
 
